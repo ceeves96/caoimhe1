@@ -1,1 +1,8 @@
+<<<<<< HEAD
 <p>cache conflict demo</p> 
+=======
+<p>this is git</p>
+<span> add this too </span>
+
+
+>>>>>>> html
